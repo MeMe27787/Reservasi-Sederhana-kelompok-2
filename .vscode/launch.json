@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Launch Dart Program",
+      "type": "dart",
+      "request": "launch",
+      "program": "${workspaceFolder}/main.dart",  // Path menuju file Dart yang benar
+      "args": []
+    }
+  ]
+}
